@@ -1,0 +1,3 @@
+display.show("heart")
+sleep(500)
+display.scroll("hello!")
